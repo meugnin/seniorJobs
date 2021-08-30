@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375115204314",
+    "project_id": "seniorjobs-522c7",
+    "storage_bucket": "seniorjobs-522c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375115204314:android:4743e45b9edd8e8ca187e3",
+        "android_client_info": {
+          "package_name": "com.seniorjobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375115204314-6m409rda2j9l1em4h8gfg45oqbglr922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfl1C5IKbzjq3yRs1qCZekyA_fFoCP0mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375115204314-6m409rda2j9l1em4h8gfg45oqbglr922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
